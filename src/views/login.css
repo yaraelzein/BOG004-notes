@@ -1,0 +1,47 @@
+body {
+    margin: auto;
+    background-color: #B4CFB0;
+  }
+  
+  .notita-title {
+    margin: 0;
+    margin-top: 130px;
+    padding: 0;
+    text-align: center;
+    font-weight: bolder;
+    color: #062925;
+    height: 150px;
+    font-size: 300px;
+    letter-spacing: .4rem;
+    font-family: 'Jomhuria', cursive;
+  }
+  
+  .notita-subtitle {
+    margin: 0;
+    margin-top: 60px;
+    padding: 0;
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: .2rem;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Patrick Hand', cursive;
+  }
+  
+  .boton-google-container {
+    margin: auto;
+    margin-top: 200px;
+    background-color: chartreuse;
+    width: 100px;
+    height: 30px;
+  }
+  
+  .boton-google {
+    margin: auto;
+    margin-left: -60px;
+    background-color: #789395;
+    border-color: #B4CFB0;
+    height: 47px;
+    width: 250px;
+    border-radius: 20px;
+    cursor: pointer;
+  }
